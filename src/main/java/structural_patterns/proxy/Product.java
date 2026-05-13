@@ -14,7 +14,6 @@ public class Product {
     }
 
     //Getters n Setters
-
     public Integer getId() {
         return id;
     }
